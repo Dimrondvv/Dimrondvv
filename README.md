@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dimrondvv
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Frontend projects to gain more expirience!
+- 
 - 📫 How to reach me? You can send me an email!
 
 <!---
